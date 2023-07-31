@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Md. Samsul Arefin. I'm an undergraduate 3rd year student studying in Brac University. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zidan.tanzim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crosshairs_532) 
