@@ -14,8 +14,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Crosshairs532&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-# Top 
-![](https://api.githubtrends.io/user/svg/Crosshairs532/repos?time_range=one_year&group=other&theme=bright_lights)
 ---
 [![](https://visitcount.itsvg.in/api?id=Crosshairs532&icon=8&color=0)](https://visitcount.itsvg.in)
 
