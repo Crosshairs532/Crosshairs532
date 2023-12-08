@@ -19,7 +19,6 @@
 
 
 # Profile Views
-
 [![](https://visitcount.itsvg.in/api?id=Crosshairs532&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
