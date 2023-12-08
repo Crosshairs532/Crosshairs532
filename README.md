@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Crosshairs532&theme=nightowl" alt="GitHub Streak" /></a>
 </p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crosshairs532&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Crosshairs532&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
