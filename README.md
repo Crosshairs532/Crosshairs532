@@ -23,6 +23,5 @@
 [![](https://visitcount.itsvg.in/api?id=Crosshairs532&icon=8&color=0)](https://visitcount.itsvg.in)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Crosshairs532&bg_color=130019&color=8a699b&line=31007a&point=d280ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
