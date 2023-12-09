@@ -10,7 +10,7 @@
 
 ## 👀 Overview
 
-<p align="left"><br><br>- 📖 I'm an Undergrad 3rd year student<br><br>- 📚 I'm currently exploring Mern Stack Development<br><br>- ⚡ Every day I try to Explore newer things or polish my understanding<br><br>- 🎮 I'm also interested in Gaming. Most of the time I play Cs</p>
+<p align="left"><br><br>- 📖 I'm an Undergraduate 3rd year student<br><br>- 📚 I'm currently exploring Mern Stack Development<br><br>- ⚡ Every day I try to Explore newer things or polish my understanding<br><br>- 🎮 I'm also interested in Gaming. Most of the time I play Cs</p>
 </br>
 
 ## 🖥️ Technologies I have explored
