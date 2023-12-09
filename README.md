@@ -16,7 +16,7 @@
 
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 
-## <h3 align="left">🔥  My Stats :</h3>
+## <h3 align="left">🔥  My Stats :</h3> </br>
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Crosshairs532&theme=nightowl" alt="GitHub Streak" /></a>
@@ -28,7 +28,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Crosshairs532&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
-# Profile Views
+## Profile Views
 
 [![](https://visitcount.itsvg.in/api?id=Crosshairs532&icon=8&color=0)](https://visitcount.itsvg.in)
 
