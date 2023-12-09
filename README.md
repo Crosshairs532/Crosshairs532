@@ -44,6 +44,8 @@
 ## My Recent Projects
 
   ➡️ [Fodecious](https://stellar-tulumba-bfaa8e.netlify.app/)
+  
   ➡️ [SHIFT UP](https://aesthetic-tiramisu-fe3e2a.netlify.app/)
+  
   ➡️ [Skill Safari](https://dazzling-boba-58eb16.netlify.app/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
