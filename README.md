@@ -1,4 +1,4 @@
-<img src ='[https://i.ibb.co/2PNjQQh/Add-a-subheading.png](https://i.ibb.co/gFZjScD/Add-a-subheading-1.png)'/>
+<img src ='https://i.ibb.co/gFZjScD/Add-a-subheading-1.png'/>
 
 
 ### Hi, I am Md. Samsul Arefin. I'm an undergraduate 3rd year student studying in Brac University. 
