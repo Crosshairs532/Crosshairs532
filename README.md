@@ -41,4 +41,12 @@
 
 [![](https://visitcount.itsvg.in/api?id=Crosshairs532&icon=8&color=0)](https://visitcount.itsvg.in)
 
+## My Recent Projects
+<ol>
+  <li>
+    [Fodecious](https://stellar-tulumba-bfaa8e.netlify.app/)
+  </li>
+</ol>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
