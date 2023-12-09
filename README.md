@@ -1,8 +1,8 @@
 ### Hi, I am Md. Samsul Arefin. I'm an undergraduate 3rd year student studying in Brac University. 
 
-###
+### 👀 Overview
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"> 📖 I'm an Undergrad 3rd year student<br><br>- 📚 I'm currently learning Mern Stack Development<br>- ⚡ Everyday I try to Explore newer things or polish my understanding<br><br>- 🎮 I'm also interested in Gaming. Most of the time I play Cs</p>
 </br>
 ###
 
