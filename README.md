@@ -20,7 +20,7 @@
 
 ## <h3 align="left"> 💻 Language and 🛠 tools</h3> </br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,css,express,figma,firebase,materialui,mongodb,netlify,ps,py,tailwind,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,css,express,figma,firebase,materialui,mongodb,netlify,ps,py,tailwind,vercel,nodejs)](https://skillicons.dev)
 
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 
