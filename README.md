@@ -4,7 +4,7 @@
 
 <p align="left"><br><br>- 📖 I'm an Undergrad 3rd year student<br><br>- 📚 I'm currently learning Mern Stack Development<br><br>- ⚡ Every day I try to Explore newer things or polish my understanding<br><br>- 🎮 I'm also interested in Gaming. Most of the time I play Cs</p>
 </br>
-###
+
 
 ### 🌐 Socials:
 
