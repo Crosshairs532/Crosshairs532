@@ -5,7 +5,7 @@
 
 ## About me
 <p>
-   Hi, I am Md. Samsul Arefin. I'm an undergraduate 3rd-year student at Brac University. As a dedicated learner in MERN stack development, I am enthusiastically exploring the world of full-stack web development. Eager to blend my skills in MongoDB, Express.js, React, and Node.js, I thrive on turning ideas into functional and user-friendly applications. I am excited to collaborate with like-minded individuals
+   Hi, I am Md. Samsul Arefin. I'm an undergraduate 4th-year student at Brac University. As a dedicated learner in MERN stack development, I am enthusiastically exploring the world of full-stack web development. Eager to blend my skills in MongoDB, Express.js, React, and Node.js, I thrive on turning ideas into functional and user-friendly applications. I am excited to collaborate with like-minded individuals
 </p>
 
 ## 👀 Overview
