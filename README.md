@@ -10,14 +10,15 @@
 
 ## 👀 Overview
 
-<p align="left"><br><br>- 📖 I'm an Undergraduate 4th year student<br><br>- 📚 Exploring MERN STACK and Automation testing<br><br><br><br>- 🎮 I'm also interested in Gaming. Most of the time I play Cs</p>
+<p align="left"><br><br>- 📖 I'm an Undergraduate 4th year student<br><br>- 📚 Exploring MERN STACK and Automation testing<br><br>- 🎮 I'm also interested in Gaming. Most of the time I play Cs</p>
 </br>
 
 ## ☑️ Recently Learned
-<p align='left'
+<p align='left'>
   <br>- Typescript
   <br>- Mongoose
-</p>
+</p></br>
+
 ## 📍 Currently Learning 
 <p align="left">
   <br>- ❄️ Redux
