@@ -28,6 +28,7 @@
 ## 🖥️ Technologies I have explored
 
 <p align=" left">
+  - Assembly Language
   - React
   - MongoDB
   - Express
