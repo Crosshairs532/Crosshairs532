@@ -10,7 +10,7 @@
 
 ## 👀 Overview
 
-<p align="left"><br><br>- 📖 I'm an Undergraduate 4th year student<br><br>- 📚 Exploring MERN STACK and Automation testing<br><br>- 🎮 I'm also interested in Gaming. Most of the time I play Cs</p><br><br>- Road to Full Stack
+<p align="left"><br><br>- 📖 I'm an Undergraduate 4th year student<br><br>- 📚 Exploring MERN STACK and Automation testing<br><br>- 🎮 I'm also interested in Gaming. Most of the time I play Cs</p><br>- Road to Full Stack
 </br>
 
 ## ☑️ Recently Learned
