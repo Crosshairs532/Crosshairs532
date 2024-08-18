@@ -13,18 +13,6 @@
 <p align="left"><br><br>- 📖 I'm an Undergraduate 4th year student<br><br>- 📚 Exploring MERN STACK and Automation testing<br><br>- 🎮 I'm also interested in Gaming. Most of the time I play Cs</p><br>- Road to Full Stack
 </br>
 
-## ☑️ Recently Learned
-<p align='left'>
-  <br>- Typescript
-  <br>- Mongoose
-</p></br>
-
-## 📍 Currently Learning 
-<p align="left">
-  <br>- ❄️ Redux
-  <br>- ❄️ Automation testing
-</p></br>
-
 ## 🖥️ Technologies I have explored
 
 <p align=" left">
