@@ -16,6 +16,7 @@
 ## 🖥️ Technologies I have explored
 
 <p align=" left">
+  - Python
   - Assembly Language
   - React
   - MongoDB
