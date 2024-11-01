@@ -26,9 +26,14 @@
   - React Query
   - Vercel
   - Netlify 
-  - Daisy UI
-  - Material UI
   - Tailwind Css
+  - MYSQL 
+  - Postgres
+  - Typescript
+  - Redux
+  - NextJs
+  - Prisma
+  - mongoose
   
   
 </p>
