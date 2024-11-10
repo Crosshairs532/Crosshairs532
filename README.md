@@ -10,7 +10,7 @@
 
 ## 👀 Overview
 
-<p align="left"><br><br>- 📖 I'm an Undergraduate 4th year student<br><br>- 📚 Exploring FULL STACK <br><br>- Road to Full Stack
+<p align="left"><br><br>- 📖 I'm an Undergraduate 4th year student<br><br>- 📚 Exploring FULL STACK <br>
 </br>
 
 ## 🖥️ Technologies I have explored
