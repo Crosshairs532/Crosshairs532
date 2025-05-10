@@ -5,7 +5,7 @@
 
 ## About me
 <p>
-   Hi, This is Md. Samsul Arefin. I'm an undergraduate 4th-year student at Brac University. I'm a dedicated learner in Full-stack development, Machine Learning, Deep Learning, and Automation. 
+   Hi, This is Md. Samsul Arefin. I'm an undergraduate 4th-year student at Brac University.
 </p>
 
 ## 🌐 Socials:
