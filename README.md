@@ -8,14 +8,6 @@
    Hi, This is Md. Samsul Arefin. I'm an undergraduate 4th-year student at Brac University. I'm a dedicated learner in Full-stack development, Machine Learning, Deep Learning, and Automation. 
 </p>
 
-## 👀 Overview
-
-<p align="left"><br><br>- 📖 I'm an Undergraduate 4th year student<br><br>- 📚 Exploring FULL STACK, Machine Learning, Deep Learning <br> 
-</br>
-
-
-
-
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zidan.tanzim?mibextid=hIlR13) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crosshairs_532?igshid=MzMyNGUyNmU2YQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-samsul-arefin-83195321b/) 
