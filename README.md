@@ -37,6 +37,13 @@
   - mongoose
   - GraphQL
   - Docker
+  - PyTorch
+  - Tensorflow
+  - numpy
+  - Pandas
+  - Matplotlib
+  - Seaborn
+  - Sklearn
   
   
 </p>
