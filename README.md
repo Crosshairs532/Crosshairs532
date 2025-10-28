@@ -5,7 +5,7 @@
 
 ## About me
 <p>
-   Hi, This is Md. Samsul Arefin; Final-year Computer Science and Engineering undergraduate with an eager to explore roles in Full- Stack web development and Data Science. Looking for an opportunity to apply my skills, contribute to impactful projects, and continue learning in a collaborative environment.
+Hi, I’m Md. Samsul Arefin, a Computer Science & Engineering graduate. Passionate about Full-Stack Web Development and Data Science, I’m looking to contribute to impactful projects and grow my skills in a collaborative environment.
 </p>
 
 ## 👀 Overview
