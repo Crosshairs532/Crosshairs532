@@ -74,9 +74,9 @@ Hi, I’m Md. Samsul Arefin, a Computer Science & Engineering graduate. Passiona
 
 
 
-## Profile Views
+<!--## Profile Views
 
-[![](https://visitcount.itsvg.in/api?id=Crosshairs532&icon=8&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Crosshairs532&icon=8&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- ## My Recent Projects
   ➡️ [GrowGuide](https://grow-guide-client.vercel.app/)
