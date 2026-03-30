@@ -44,6 +44,8 @@ Hi, I’m Md. Samsul Arefin, a Computer Science & Engineering graduate. Passiona
   - Matplotlib
   - Seaborn
   - Sklearn
+  - Nest.js
+  - AWS
   
   
 </p>
