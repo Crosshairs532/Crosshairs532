@@ -11,7 +11,7 @@ Hi, I’m Md. Samsul Arefin, a Computer Science & Engineering graduate. Passiona
 
 ## 👀 Overview
 
-<p align="left"><br>- 📖 Recent Computer Science & Engineering Graduate<br><br>- 📚 Exploring FULL STACK, Machine Learning, Deep Learning <br><br>- 🚀 Seeking opportunities to contribute to impactful projects
+<p align="left"><br>- 📖 Recent Computer Science & Engineering Graduate<br><br>- 📚 Exploring FULL STACK Software Engineering, Machine Learning, Deep Learning <br><br>- 🚀 Seeking opportunities to contribute to impactful projects
 </br>
 
 ## 🖥️ Technologies I have explored
